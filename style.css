@@ -1,0 +1,69 @@
+body 
+{font-family: 'Rajdhani', sans-serif;
+    background: rgb(151, 110, 233);
+}
+
+.header_div{
+    background: rgb(6, 62, 117);
+    color: maroon;
+}
+
+.header_div img{
+    width: 100px;
+
+}
+
+.main_div{
+    background: mediumslateblue;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid blanchedalmond;
+}
+
+.main_div label{
+    background: blueviolet;
+    width: 310px;
+    padding:10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px darkcyan ;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px cornflowerblue;
+    border: 1px solid;
+}
+
+#camera,#result{
+    border: 2px solid;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px azure;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background: cornsilk;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px lightseagreen;
+
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.copy_right_footer{
+    position:fixed  ;
+    color: lightsteelblue;
+    bottom: opx;
+    width: 100%;
+    background-color: navajowhite;
+    line-height: 3;
+    text-align: center;
+}
